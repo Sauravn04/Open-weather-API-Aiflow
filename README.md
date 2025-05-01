@@ -29,7 +29,7 @@ This project is a data pipeline that extracts weather data from the [OpenWeather
 ---
 
 ## 🗄️ Data Model
-![data model.](Data-model.jpg)
+![data model.](Data-model.png)
 ---
 
 ## 🧑‍💻 Getting Started
