@@ -37,6 +37,6 @@ This project is a data pipeline that extracts weather data from the [OpenWeather
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/openweather-etl-airflow.git
+git clone https://github.com/Sauravn04/Open-weather-API-Aiflow.git
 cd openweather-etl-airflow
 
